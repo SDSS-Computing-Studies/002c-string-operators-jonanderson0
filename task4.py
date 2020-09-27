@@ -5,7 +5,7 @@
 
 subject = "This little piggy"
 verb = "went"
-  preposition = "to"
+preposition = "to"
 pronoun = "market."
 
 result = subject + verb + preposition + pronoun
