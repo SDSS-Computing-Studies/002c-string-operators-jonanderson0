@@ -3,5 +3,5 @@
 start = "here" 
 word = "kitty kitty kitty"
 
-start + word = result
+result= start + word
 print(result)
