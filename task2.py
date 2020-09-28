@@ -2,5 +2,5 @@
 
 noun = "dog"
 verb = " barked"
-result = (noun)/n + (verb)
+result = (noun) break + (verb)
 print(result)
